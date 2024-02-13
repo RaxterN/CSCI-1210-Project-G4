@@ -1,6 +1,6 @@
 
 Team Lead - 
-Document Manager
+Document Manager -
 Lead Designer - 
 Lead Developer - 
 Quality Manager - 
